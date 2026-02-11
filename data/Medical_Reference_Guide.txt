@@ -1,0 +1,214 @@
+MEDICAL REFERENCE GUIDE
+Diseases, Medicines, and Dosages
+
+===========================================
+
+DIABETES MELLITUS TYPE 2
+
+Primary Medications:
+- Metformin: 500mg twice daily with meals, maximum 2000mg/day
+- Glipizide: 5mg once daily before breakfast, maximum 20mg/day
+- Insulin Glargine: 10-20 units subcutaneous once daily at bedtime
+- Sitagliptin: 100mg once daily with or without food
+
+===========================================
+
+HYPERTENSION (HIGH BLOOD PRESSURE)
+
+Primary Medications:
+- Lisinopril: 10mg once daily, maximum 40mg/day
+- Amlodipine: 5mg once daily, maximum 10mg/day
+- Hydrochlorothiazide: 25mg once daily in morning
+- Metoprolol: 50mg twice daily, maximum 200mg/day
+
+===========================================
+
+DEPRESSION
+
+Primary Medications:
+- Sertraline: 50mg once daily, maximum 200mg/day
+- Fluoxetine: 20mg once daily in morning, maximum 80mg/day
+- Escitalopram: 10mg once daily, maximum 20mg/day
+- Bupropion: 150mg twice daily, maximum 450mg/day
+
+===========================================
+
+ANXIETY DISORDERS
+
+Primary Medications:
+- Alprazolam: 0.25mg three times daily, maximum 4mg/day
+- Lorazepam: 1mg twice daily, maximum 6mg/day
+- Buspirone: 15mg twice daily, maximum 60mg/day
+- Clonazepam: 0.5mg twice daily, maximum 4mg/day
+
+===========================================
+
+ASTHMA
+
+Primary Medications:
+- Albuterol Inhaler: 2 puffs every 4-6 hours as needed
+- Fluticasone Inhaler: 2 puffs twice daily
+- Montelukast: 10mg once daily in evening
+- Prednisone: 40mg daily for 5 days (acute exacerbation)
+
+===========================================
+
+PNEUMONIA
+
+Primary Medications:
+- Amoxicillin: 500mg three times daily for 7-10 days
+- Azithromycin: 500mg on day 1, then 250mg daily for 4 days
+- Levofloxacin: 750mg once daily for 5 days
+- Ceftriaxone: 1g IV once daily for severe cases
+
+===========================================
+
+URINARY TRACT INFECTION
+
+Primary Medications:
+- Nitrofurantoin: 100mg twice daily for 5 days
+- Trimethoprim-Sulfamethoxazole: 160/800mg twice daily for 3 days
+- Ciprofloxacin: 250mg twice daily for 3 days
+- Fosfomycin: 3g single dose
+
+===========================================
+
+GASTROESOPHAGEAL REFLUX DISEASE (GERD)
+
+Primary Medications:
+- Omeprazole: 20mg once daily before breakfast
+- Pantoprazole: 40mg once daily
+- Ranitidine: 150mg twice daily
+- Famotidine: 20mg twice daily
+
+===========================================
+
+MIGRAINE HEADACHE
+
+Primary Medications:
+- Sumatriptan: 50mg at onset, may repeat once after 2 hours
+- Rizatriptan: 10mg at onset, maximum 30mg/day
+- Propranolol: 80mg twice daily for prevention
+- Topiramate: 25mg twice daily for prevention
+
+===========================================
+
+OSTEOARTHRITIS
+
+Primary Medications:
+- Ibuprofen: 400mg three times daily with food
+- Naproxen: 220mg twice daily
+- Acetaminophen: 650mg four times daily, maximum 3000mg/day
+- Celecoxib: 200mg once daily
+
+===========================================
+
+RHEUMATOID ARTHRITIS
+
+Primary Medications:
+- Methotrexate: 15mg once weekly with folic acid
+- Hydroxychloroquine: 200mg twice daily
+- Sulfasalazine: 1000mg twice daily
+- Prednisone: 5-10mg daily (lowest effective dose)
+
+===========================================
+
+HYPOTHYROIDISM
+
+Primary Medications:
+- Levothyroxine: 50-100mcg once daily on empty stomach
+- Liothyronine: 25mcg twice daily
+- Armour Thyroid: 60mg once daily
+
+===========================================
+
+HYPERTHYROIDISM
+
+Primary Medications:
+- Methimazole: 15mg once daily
+- Propylthiouracil: 100mg three times daily
+- Propranolol: 40mg twice daily for symptoms
+
+===========================================
+
+ATRIAL FIBRILLATION
+
+Primary Medications:
+- Warfarin: 5mg daily, adjust based on INR
+- Apixaban: 5mg twice daily
+- Metoprolol: 50mg twice daily
+- Diltiazem: 120mg once daily
+
+===========================================
+
+HEART FAILURE
+
+Primary Medications:
+- Lisinopril: 10mg once daily, titrate up
+- Metoprolol Succinate: 25mg once daily, titrate up
+- Furosemide: 40mg once daily
+- Spironolactone: 25mg once daily
+
+===========================================
+
+CHRONIC KIDNEY DISEASE
+
+Primary Medications:
+- Lisinopril: 10mg once daily
+- Furosemide: 40mg once daily
+- Calcium Carbonate: 1250mg three times daily with meals
+- Epoetin Alfa: 50-100 units/kg three times weekly
+
+===========================================
+
+EPILEPSY
+
+Primary Medications:
+- Phenytoin: 300mg once daily
+- Carbamazepine: 200mg twice daily
+- Valproic Acid: 500mg twice daily
+- Levetiracetam: 500mg twice daily
+
+===========================================
+
+PARKINSON'S DISEASE
+
+Primary Medications:
+- Carbidopa-Levodopa: 25/100mg three times daily
+- Pramipexole: 0.5mg three times daily
+- Ropinirole: 2mg three times daily
+- Selegiline: 5mg twice daily
+
+===========================================
+
+ALZHEIMER'S DISEASE
+
+Primary Medications:
+- Donepezil: 10mg once daily at bedtime
+- Rivastigmine: 6mg twice daily
+- Galantamine: 12mg twice daily
+- Memantine: 10mg twice daily
+
+===========================================
+
+IMPORTANT NOTES:
+
+1. All dosages are for adult patients unless specified
+2. Dosages may need adjustment based on patient weight, age, and kidney function
+3. Always check for drug interactions and allergies
+4. Monitor patients for side effects and therapeutic response
+5. Some medications require regular laboratory monitoring
+6. Consult prescribing information for complete dosing guidelines
+
+===========================================
+
+CONTRAINDICATIONS AND WARNINGS:
+
+- Metformin: Contraindicated in severe kidney disease
+- ACE Inhibitors: Monitor potassium levels and kidney function
+- NSAIDs: Use caution in patients with kidney disease or heart failure
+- Warfarin: Requires regular INR monitoring
+- Benzodiazepines: Risk of dependence and withdrawal
+- Antibiotics: Complete full course even if symptoms improve
+
+===========================================
