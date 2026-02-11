@@ -7,12 +7,15 @@ name = "pypi"
 langchain = "*"
 langchain-community = "*"
 langchain-huggingface = "*"
+langchain-core = "*"
+langchain-text-splitters = "*"
 faiss-cpu = "*"
 pypdf = "*"
 streamlit = "*"
 langchain-groq = "*"
 sentence-transformers = "*"
 reportlab = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
